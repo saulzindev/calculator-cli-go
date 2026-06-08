@@ -32,7 +32,7 @@ go version
 Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone <github.com/saulzindev-go-cli-calculator>
 ```
 
 Entre na pasta do projeto:
